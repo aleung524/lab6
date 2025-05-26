@@ -45,13 +45,20 @@
   width: 50%;
   background: #0ca124;
   border-radius: 0 0 100px 100px;
-  border-bottom: solid 10px #2d9961;
+  border-bottom: solid 5px #2d9961;
 }
 
 .onion {
-  width: 40%;
+  width: 60%;
   background-color: #6d0ca1;
   border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.lettuce {
+  height: 20px;
+  width: 75%;
+  background: #2ff85b;
+  border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .bun-bottom {
